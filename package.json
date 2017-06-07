@@ -1,0 +1,10 @@
+{
+  "name": "sketch.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/intridea/sketch.js",
+  "description": "Purpose of forking the original repository is just to add a package.json so that it works with Yarn.",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
